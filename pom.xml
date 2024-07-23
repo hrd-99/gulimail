@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.gulimail</groupId>
-	<artifactId>gulimail</artifactId>
+	<artifactId>gulimall</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gulimail</name>
 	<description>聚合服务</description>
@@ -15,5 +15,6 @@
 		<module>order</module>
 		<module>product</module>
 		<module>ware</module>
+		<module>renren-fast</module>
 	</modules>
 </project>
